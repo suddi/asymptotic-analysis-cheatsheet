@@ -4,7 +4,7 @@ Asymptotic analysis applied on basic datastructures in different languages.
 
 ## Python
 
-* [Lists](./python/list)
-* [Tuples](./python/tuple)
-* [Sets](./python/set)
-* [Dictionaries](./python/dict)
+* [Lists](./python/list.md)
+* [Tuples](./python/tuple.md)
+* [Sets](./python/set.md)
+* [Dictionaries](./python/dict.md)
