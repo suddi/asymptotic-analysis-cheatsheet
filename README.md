@@ -9,4 +9,4 @@ Asymptotic analysis applied on basic data structures in different languages.
 * [Lists](./python/list.md)
 * [Tuples](./python/tuple.md)
 * [Sets](./python/set.md)
-* [Dictionaries](./python/dict.md)
+* [Dictionaries](./python/dict.md) 
